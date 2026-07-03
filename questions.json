@@ -1,0 +1,10 @@
+[
+  {
+    "question":"What is Retrieval-Augmented Generation?",
+    "relevant_chunks":[0,1]
+  },
+  {
+    "question":"What is ChromaDB?",
+    "relevant_chunks":[3]
+  }
+]
